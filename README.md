@@ -28,3 +28,9 @@ Et je devais gérer les configurations des serveurs sur des fichiers JSON et ne 
 
 Je n'ai pas su finir le projet car nous étions censé travailler en groupe dessus. Sauf qu'un des membres de notre groupe à arrêté les cours et le 3ème ne savais pas programmer en python. Je me suis retrouvé seul à faire la plupart des fonctionnalité du projet.
 J'ai aussi été bloqué par les innondations et n'avais plus accès à un ordinateur et ne pouvait donc plus travailler sur le projet. 
+
+## Compétences acquises lors de ce projet :
+
+Utilisation des protocoles TCP en languages de programmation
+Utilisation de librairies externe et recherche de doc
+Chiffrement des données
