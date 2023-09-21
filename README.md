@@ -32,5 +32,7 @@ J'ai aussi été bloqué par les innondations et n'avais plus accès à un ordin
 ## Compétences acquises lors de ce projet :
 
 Utilisation des protocoles TCP en languages de programmation
+
 Utilisation de librairies externe et recherche de doc
+
 Chiffrement des données
